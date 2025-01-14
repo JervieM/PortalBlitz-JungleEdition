@@ -52,4 +52,4 @@ Mechanics:
  enemies and clear the level the faster. 
  
  Are you ready to take on the jungle? Let the
- Portal Blitz begin
+ Portal Blitz begin!
