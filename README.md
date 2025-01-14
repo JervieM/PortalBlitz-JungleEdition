@@ -1,6 +1,5 @@
 # PortalBlitz-JungleEdition
 
-Description:
  Welcome to Portal Blitz: Jungle Edition! The
  ultimate multiplayer networking game where
  you and your friend will be transported to a
